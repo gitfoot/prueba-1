@@ -12,7 +12,7 @@
 3. Third item
 
 
-![Alt text for image](https://meshery.io/assets/images/logos/meshery-logo.png)
+![Alt text for image](https://meshery.io/assets/images/logos/meshery-logo_272x92.png)
 
 ```python
 def hello_world():
@@ -20,4 +20,4 @@ def hello_world():
 ```
 
 ### Start to push to github  every day
-  - One commit a day keep codeprocastrination away
+  - One commit a day keep code procastrination away
