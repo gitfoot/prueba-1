@@ -12,7 +12,7 @@
 3. Third item
 
 
-![Alt text for image](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![Alt text for image](https://meshery.io/assets/images/logos/meshery-logo.png)
 
 ```python
 def hello_world():
